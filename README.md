@@ -4,7 +4,7 @@ Bem-vindo ao repositório do **Sistema de Gestão de Locações de Veículos**! 
 
 ## Acesse a Wiki do Projeto
 
-Para entender todos os detalhes sobre a arquitetura, funcionalidades, fluxos de trabalho, tecnologias utilizadas e como contribuir para o projeto, acesse a nossa **[Wiki do Projeto](https://github.com/seu-usuario/nome-do-repositorio/wiki)**.
+Para entender todos os detalhes sobre a arquitetura, funcionalidades, fluxos de trabalho, tecnologias utilizadas e como contribuir para o projeto, acesse a nossa **[Wiki do Projeto](https://github.com/victoriak22/modelagem-software-VL/wiki)**.
 
 A Wiki contém informações completas sobre:
 
